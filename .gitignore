@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+
+# Added by drink_up_doctor
+/_site/
+/.sass-cache/
+/node_modules/
+/assets/
+/bower_components/
+.DS_Store
+
