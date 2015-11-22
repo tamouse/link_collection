@@ -15,7 +15,7 @@ kramdown:
 defaults:
   - scope:
       path: ""
-      type: links_collections
+      type: links
     values:
       layout: link
 
@@ -25,5 +25,5 @@ defaults:
 exclude: [README.md, bower.json, package.json, gulpfile.js, node_modules, bower_components, Gemfile, Gemfile.lock]
 
 collections:
-  links_collection:
+  links:
     output: true
